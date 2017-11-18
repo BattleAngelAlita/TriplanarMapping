@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: TriplanarMapping
+  m_Name: TriplanarMapping 1
   m_Shader: {fileID: 4800000, guid: b257b906f6510f942a63ca139b15d432, type: 3}
   m_ShaderKeywords: _WIS_ON
   m_LightmapFlags: 4
@@ -19,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 4d91ee05156c48d4cb3ba0698c7b597e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0279e5ba6f67d134196f732bd9e58a2b, type: 3}
         m_Scale: {x: 1.21, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
